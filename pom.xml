@@ -186,8 +186,7 @@
                               http://localhost:9000
                               </sonar.host.url>
                 </properties>
-         </profile>
-       </profiles>                              
+         </profile>                            
     <profile>
       <id>tomcat90</id>
       <properties>
